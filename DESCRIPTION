@@ -1,0 +1,16 @@
+Package: RegSubDetect
+Type: Package
+Title: Regression and Subgroup Detection for Heterogeneous Samples
+Version: 0.1.0
+Author: Peng Wu, Baosheng Liang
+Maintainer: Peng Wu <pengwu@mail.bnu.edu.cn>
+Description: This package is specifically tailored for handling the situations where the 
+    sample is not homogeneous in the sense that the response variable in different domains
+    of feature space are generated through different mechanisms.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    Matrix
+RoxygenNote: 6.1.1
